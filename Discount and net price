@@ -1,0 +1,9 @@
+void main()
+{
+float p,d,dp,final price;
+p=1000.0;
+dp=1000*(10/100);
+dp=100;
+final price = 1000-100=900;
+printf("\n final price =%f",final price);
+}
