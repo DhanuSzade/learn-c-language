@@ -1,0 +1,8 @@
+void main()
+{
+int a, b, c;
+printf("\n Enter 2 numbers:")
+scanf("%d",&a,&b);
+c= a+b;
+printf("\n Sum=%d",c);
+}
