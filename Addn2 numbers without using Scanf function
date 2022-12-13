@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <conio.h>
+main void()
+{
+int a, b, c;
+clscr();
+a=10;
+b=40;
+c=a+b;
+printf("\n =%d\n b=%d\n Sum=%d",a,b,c);
+getch();
+}
